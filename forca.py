@@ -1,5 +1,5 @@
 import random
-from re import T
+from re import
 
 palavras = ["primeiro", "carlos", "jogar", "pizza", "hamburguer", "teclado"]
 
