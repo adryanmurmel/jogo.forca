@@ -1,1 +1,1 @@
-# forca.python
+# jogo.forca
