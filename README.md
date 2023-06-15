@@ -1,2 +1,2 @@
 # JogoDaForca
-#EM PYTHON
+Python
