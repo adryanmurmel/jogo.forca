@@ -5,7 +5,7 @@ palavras = ["primeiro", "carlos", "jogar", "pizza", "hamburguer", "teclado"]
 
 palavra_escolhida = random.choice(palavras)
 
-print(palavra_escolhida)
+print(palavra_escolhida) 
 
 print(len(palavra_escolhida))
 
