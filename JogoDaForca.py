@@ -1,7 +1,7 @@
 import random
 from re import
 
-palavras = ["primeiro", "carlos", "jogar", "pizza", "hamburguer", "teclado"]
+palavras = ["cafe", "bola", "cachorro", "pizza", "hamburguer", "sino", "crepusculo", "galaxia", "moeda", "pedreiro", "xicara", "teclado", "champanhe", "coelho", ""]
 
 palavra_escolhida = random.choice(palavras)
 
